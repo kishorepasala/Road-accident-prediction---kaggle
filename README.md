@@ -50,12 +50,3 @@ The goal of this project is to:
 6. **Results & Insights**  
    - Highlight top factors affecting accident severity  
    - Discuss potential implications for safety improvements  
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/road-accident-xgboost.git
-   cd road-accident-xgboost
